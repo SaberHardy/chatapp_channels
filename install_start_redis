@@ -1,0 +1,3 @@
+installation: brew install redis
+
+start redis: brew services start redis
